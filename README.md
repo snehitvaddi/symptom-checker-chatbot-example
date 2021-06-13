@@ -3,6 +3,7 @@
 This here is a simple example of how a symptom-checking chatbot may be built using Infermedica API and 300 lines
 of Python code.
 
+
 The project is merely a tutorial. It's not intended to be a production-ready solution.
 The entire interaction takes place in console. No intent recognition is performed and the bot is pretty ignorant
 when it comes to understanding user's actions other than blindly following the instructions.
